@@ -1,0 +1,16 @@
+Tachyon v1.0
+
+Release Date:
+June 30, 2026
+
+Status:
+Stable
+
+Features:
+- Local Ollama support
+- Conversation memory
+- Multiple modes
+- Command system
+
+Known Issues:
+None
